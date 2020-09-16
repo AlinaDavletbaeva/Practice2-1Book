@@ -1,11 +1,11 @@
-public class BookCons {
+public class Book {
 
     String name;
     String author;
     int pages;
 
-    //Я решила добавить конструктор
-    public BookCons(String name, String author, int pages) {
+    //Я решила добавить конструктор 16.09.2020
+    public Book(String name, String author, int pages) {
         this.name = name;
         this.author = author;
         this.pages = pages;
