@@ -3,7 +3,7 @@ public class BookLoader {
     public static void main(String[] arg)
     {
 
-        Book a= new Book("Портрет Дориана Грея","Оскар Уайльд", 320);
+        BookCons a= new BookCons("Портрет Дориана Грея","Оскар Уайльд", 320);
        /* a.setName("Портрет Дориана Грея");
         a.setAuthor("Оскар Уайльд");
         a.setPages(320);
